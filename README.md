@@ -3,9 +3,10 @@ Exercices 2 et 3
 
 ##Exercice 2 :
 
-    >Je vous invite à vous rendre sur [Codecademy]
-    (https://www.codecademy.com/fr/users/lemaire36/achievements)afin de voir
-    mes badges obtenues.
+    Je vous invite à vous rendre sur :
+     https://www.codecademy.com/fr/lemaire36
+     https://www.codecademy.com/fr/learn/web
+    pour voir mes badges obtenues.
     
 ##Exercice 3 :
 
